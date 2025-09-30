@@ -39,3 +39,5 @@ KPI Cards → Highlight total numbers and averages at the top.
 ✅ CAFV Eligibility: 41.82% of EVs are eligible, while ~46% remain in the unknown category.
 🔋 Electric Range: Average EV electric range is ~68 miles, but newer models likely push this higher.
 
+Effective Dashboard
+<img width="1595" height="903" alt="Screenshot 2025-09-19 220218" src="https://github.com/user-attachments/assets/b130ab5b-41ed-4c43-a1c1-7dc3b5b44b9b" />
